@@ -126,6 +126,15 @@
         }
         .fa-github {
             color: blue;
+			text-decoration: none;
+        }
+		.fa-envelope {
+            color: blue;
+			text-decoration: none;
+        }
+		.fa-linkedin {
+            color: blue;
+			text-decoration: none;
         }
         .fa-envelope:hover {
             color: white !important;
@@ -136,6 +145,7 @@
         .fa-linkedin:hover {
             color: white !important;
         }
+	
     </style>
 </head>
 <body>
