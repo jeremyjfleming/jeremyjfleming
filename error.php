@@ -12,10 +12,7 @@ switch ($requests) {
         break;
     case '403':
         echo "Access Denied";
-        break;    
-    case '404':
-        header("Location: /");
-        break;  
+        break;     
     case '400':
         echo "Bad Request";
         break;  
