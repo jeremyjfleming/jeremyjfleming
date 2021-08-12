@@ -1,6 +1,8 @@
 <?php
 
-switch ($_GET[]) {
+
+$requests = $_GET; 
+switch ($requests) {
 
     case '404':
         header("Location: /");
