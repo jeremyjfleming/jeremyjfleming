@@ -1,6 +1,5 @@
 <?php
 
-
 $requests = $_GET; 
 switch (key($requests)) {
 
