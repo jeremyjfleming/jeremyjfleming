@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/jeremyjf/public_html
-    - /bin/cp -r -R /home/jeremyjf/repo/public_html $DEPLOYPATH
+    - /bin/cp -R /home/jeremyjf/repo/public_html $DEPLOYPATH
