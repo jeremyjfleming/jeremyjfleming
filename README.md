@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Jeremy
-- 👀 I’m interested in PHP, .Net, JS, C++, and Kotlin
-- 🌱 I’m currently learning ...
+MOVED TO GITLAB
+gitlab.com/jeremyjfleming/
 
 <!---
 jeremyjfleming/jeremyjfleming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
